@@ -4,15 +4,71 @@ On Aristotle's Physics I
 Translated by GPT-5 Thinking
 
 
-
-
-- 1,3 : To learn the object of the *Physics*, we must divide the parts of philosophy and the parts of the soul they perfect.
-- 1,14 : The parts of theoretical philosophy, matched with their objects and the parts of the soul.
-- 2,8 : Division of natural science.
-- 2,16 : Criticism of Alexander on the object of *On the Heaven*; a correct division of natural science confi rms that its object is simple natural bodies.
-- 2,30 : Division of the study of generated things.
-- 3,13 : The object of the Physics: the principles of natural things in common and what must be discussed together with them.
-- 4,8 : The title.
+- 1,3: To learn the object of the *Physics*, we must divide the parts of philosophy and the parts of the soul they perfect.
+- 1,14: The parts of theoretical philosophy, matched with their objects and the parts of the soul.
+- 2,8: Division of natural science.
+- 2,16: Criticism of Alexander on the object of *On the Heaven*; a correct division of natural science confi rms that its object is simple natural bodies.
+- 2,30: Division of the study of generated things.
+- 3,13: The object of the Physics: the principles of natural things in common and what must be discussed together with them.
+- 4,8: The title.
+- 4,17: Utility of the topic: above all, the study of natural science instills virtue.
+- 5,26: The ordering of the work, i.e. its logical place in the scheme of Aristotle’s works.
+- 5,32: Authenticity.
+- 6,4: Internal structure.
+- 6,31: Aristotle in relation to his predecessors.
+- 7,19: Aristotle’s improvements on the natural scientists.
+- 7,27: The superiority of Aristotle in natural science to all his predecessors, including Plato.
+- 8,16: Division of Aristotle’s works into exoteric and acroamatic.
+- 8,32: The lemma worked out as a syllogism; why the first premise goes unargued.
+- 9,7: Alternative explanations of why Aristotle provides no demonstration of the premise that natural things have principles.
+- 9,27: Discussion of the claim that we know things which have principles, causes, and elements by recognizing those principles, causes and elements.
+- 10,7: Problems about the meaning and denotation of the key terms ‘principle’, ‘cause’, and ‘element’, starting with the mistaken view of Alexander and Eudemus that the final cause is not a principle and the form is not an element.
+- 10,25: Another mistaken view about the scope of ‘principle’: Porphyry on the relation of ‘principle’ to ‘cause’.
+- 11,16: Corrections of Alexander and Eudemus and of Porphyry on the points just discussed.
+- 11,29: Simplicius gives his own view as to what kinds of ‘principles’, etc. Aristotle means.
+- 12,5: Scientific knowledge requires knowledge of the principles common to all sciences, but this is not what Aristotle refers to here.
+- 12,14: Why Aristotle says ‘knowing and scientific knowing’: Plato and Aristotle both distinguish eidenai and epistasthai, but treat the latter as the strict sense of the former.
+- 13,14: Alexander on why Aristotle adds the ‘of which there are principles or causes or elements’.
+- 13,28: Alexander’s reading is wrong about what sciences involve ‘elements’ and final causes.
+- 14,9: The puzzles presented by the relative clause ‘of which there are principles or causes or elements’ revisited.
+- 14,18: Simplicius’s own explanation of the scope of the sentence: the restrictive term here is methodos, so that Aristotle’s claim is that all knowledge belonging to a discipline comes about from principles.
+- 14,30: Aristotle will begin by explaining how we know principles.
+- 15,4: How knowledge of principles is possible.
+- 16,8: How sensible particular wholes are ‘better known’.
+- 16,17: In what way universals are better known than particulars.
+- 16,31: Explication of Aristotle’s first example: name and definition.
+- 17,13: The second example.
+- 17,25: Alexander’s reading: Simplicius repeats and engages with this at 19,29 ff
+- 17,31: Start of detailed observations on the lemma and Physics 1.1 as a whole.
+- 17,38: Second observation: two kinds of cognitions of wholes.
+- 18,24: Th ird observation: Knowledge of principles of natural things is not demonstrative.
+- 19,1: A puzzle: how can the common things be less clear, and therefore posterior by nature?
+- 19,12: Simplicius’s own solution to this puzzle.
+- 19,18: What ‘common things’ does Aristotle say are better known to us? Alexander claims that they are universal truths about the principles.
+- 20,3: Simplcius’s own explanation of how Aristotle thinks we come to grasp principles of natural things, viz. via observation of natural things.
+- 20,29: Puzzle about why Aristotle apparently skips prior question of whether natural things have principles: the answer of ‘the commentators’.
+- 21,8: S.’s own solution.
+- 21,22: Ar.’s division of the ancients’ theories of principles.
+- 22,9: Al. is wrong to think that Ar.’s restriction here of the application of ‘moved/unmoved’ and ‘finite/infinite’ to the one and the many respectively expresses their irrelevance to the other branch of the division.
+- 22,22: The fuller, more systematic division undertaken: excursus on Xenophanes, whose principle does not fit the division.
+- 23,21: Those who say that the principle is one and moved and finite.
+- 24,13: Next branch of the division: the principle as one and moved and infinite.
+- 24,26: The ‘one, moved, infi nite’ branch continued: Anaximenes.
+- 25,1: The ‘one, moved principle’ branch of the division completed: Diogenes of Apollonia.
+- 25,9: Conclusions on the ‘one, moved principle’ branch.
+- 25,14: The division continued: those who say the principles are many, beginning with those who say they are of finitely different kinds.
+- 26,5: Plato’s (finitely many) principles.
+- 26,26: Other ‘several finite principles’ theories.
+- 26,31: The ‘infinite non-uniform principles’ branch of the division.
+- 27,26: Summary of the ‘infinite in plurality, non-uniform principles’ option.
+- 28,4: Atomism, as the ‘infinite in plurality, uniform principles’ option.
+- 28,32: S. introduces his harmonization of the ancients’ theories of the principles.
+- 29,28: Harmonization of philosophers continued: Parmenides agrees with Melissus that the principle is infi nite in having no temporal end, saying that it is limited only in the sense that it is perfect or complete.
+- 30,14: Parmenides also goes on to discuss sensibles, introducing contrary principles and the efficient cause.
+- 31,18: Empedocles also recognizes principles of both sensible and intelligible worlds, agreeing with Parmenides: his efficient causes, Love and Strife, both operate at both levels.
+- 34,8: Empedocles agrees with Parmenides, posits several levels of intelligibles beyond the sensible world.
+- 34,18: Anaxagoras harmonized: like Parmenides and Empedocles, he discusses both intelligible and sensible principles
+- 35,22: Th e atomists and Plato (and the Pythagorean ‘Timaeus’) are here added to the harmonization: their bodily principles are more basic than earth, air, fi re, and water as elements, but are compatible with them.
 
 ---
 
